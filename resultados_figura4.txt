@@ -1,0 +1,12 @@
+Franja | λ | s | capacidad | ρ | condición
+7:00 | 89.8 | 4 | 79.2 | 1.134 | Inestable
+8:00 | 100.1 | 4 | 79.2 | 1.264 | Inestable
+9:00 | 89.1 | 4 | 79.2 | 1.125 | Inestable
+10:00 | 73.6 | 4 | 79.2 | 0.929 | Crítico
+11:00 | 55.1 | 4 | 79.2 | 0.696 | Estable
+12:00 | 40.3 | 3 | 59.4 | 0.678 | Estable
+13:00 | 48.7 | 3 | 59.4 | 0.820 | Estable
+14:00 | 67.4 | 4 | 79.2 | 0.851 | Crítico
+15:00 | 57.3 | 4 | 79.2 | 0.723 | Estable
+16:00 | 34.7 | 4 | 79.2 | 0.438 | Estable
+Archivo: Figura4_factor_utilizacion.png

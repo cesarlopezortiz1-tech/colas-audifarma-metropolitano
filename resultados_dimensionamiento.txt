@@ -1,0 +1,40 @@
+TABLA 14. MÓDULOS PROPUESTOS POR FRANJA (meta Wq ≤ 10 min, máximo 6 módulos)
+  Franja | λ (usuarios/h) | s actual | Wq actual M/M/s (min) | s propuesto | ρ propuesto | Wq M/M/s (min) | Wq M/G/s A-C (min)
+  7:00-8:00 | 89,8 | 4 | Inestable | 5 | 0,907 | 5,1 | 3,3
+  8:00-9:00 | 100,1 | 4 | Inestable | 6 | 0,843 | 1,9 | 1,3
+  9:00-10:00 | 89,1 | 4 | Inestable | 5 | 0,900 | 4,6 | 3,0
+  10:00-11:00 | 73,6 | 4 | 9,1 | 4 | 0,929 | 9,1 | 5,9
+  11:00-12:00 | 55,1 | 4 | 1,1 | 4 | 0,696 | 1,1 | 0,7
+  12:00-13:00 | 40,3 | 3 | 1,4 | 3 | 0,678 | 1,4 | 0,9
+  13:00-14:00 | 48,7 | 3 | 3,8 | 3 | 0,820 | 3,8 | 2,5
+  14:00-15:00 | 67,4 | 4 | 3,5 | 4 | 0,851 | 3,5 | 2,3
+  15:00-16:00 | 57,3 | 4 | 1,3 | 4 | 0,723 | 1,3 | 0,8
+  16:00-17:00 | 34,7 | 4 | 0,2 | 3 | 0,584 | 0,8 | 0,5
+  Horas-módulo / día: actual 38, propuesto 41
+
+TABLA 15. COSTO TOTAL POR HORA EN LA FRANJA PICO (λ = 100,1)
+  s = 6: servicio $114.000 | Lq 3.25 | espera $31.294 | total $145.294
+  s = 7: servicio $133.000 | Lq 0.88 | espera $8.444 | total $141.444
+  s = 8: servicio $152.000 | Lq 0.30 | espera $2.900 | total $154.900
+  s = 9: servicio $171.000 | Lq 0.11 | espera $1.051 | total $172.051
+  Óptimo: 7 módulos; diferencia de 6 frente al óptimo: 2.7 %
+
+DEMANDA PROMEDIO (λ = 65,6)
+  s = 4: total $106.083
+  s = 5: total $101.060
+  s = 6: total $115.719
+  s = 7: total $133.515
+
+ÓPTIMO ECONÓMICO POR FRANJA
+  7:00-8:00: propuesto 5 ($168.093) | mínimo costo 6 ($126.882)
+  8:00-9:00: propuesto 6 ($145.294) | mínimo costo 7 ($141.444)
+  9:00-10:00: propuesto 5 ($161.021) | mínimo costo 6 ($126.169)
+  10:00-11:00: propuesto 4 ($183.209) | mínimo costo 5 ($107.552)
+  11:00-12:00: propuesto 4 ($85.282) | mínimo costo 4 ($85.282)
+  12:00-13:00: propuesto 3 ($66.361) | mínimo costo 3 ($66.361)
+  13:00-14:00: propuesto 3 ($86.766) | mínimo costo 4 ($80.706)
+  14:00-15:00: propuesto 4 ($113.985) | mínimo costo 5 ($102.139)
+  15:00-16:00: propuesto 4 ($87.725) | mínimo costo 4 ($87.725)
+  16:00-17:00: propuesto 3 ($61.524) | mínimo costo 3 ($61.524)
+
+Archivos: resultados_dimensionamiento.xlsx, Figura10_costos_hora_pico.png

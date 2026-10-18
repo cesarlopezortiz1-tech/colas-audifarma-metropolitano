@@ -1,0 +1,10 @@
+TIEMPOS DE SERVICIO (n = 420, media = 3.030 min, desv. = 1.651 min)
+  Exponencial (media 3.03): D = 0.2242, crítico = 0.0519, p = 0.000  -> Se rechaza
+  Gamma (α = 3.23, θ = 0.94): D = 0.0319, crítico = 0.0445, p = 0.397  -> No se rechaza
+  (valores críticos y p por Monte Carlo, con parámetros estimados de los datos)
+
+TABLA 8. RESUMEN DE LAS PRUEBAS DE BONDAD DE AJUSTE (α = 0,05)
+  Llegadas por intervalo de 5 min | Poisson (λ = 7.43) | Chi-cuadrado | 7.55 | 15.51 | No se rechaza
+  Tiempo entre llegadas | Exponencial (media 0.668 min) | K-S | 0.0165 | 0.0367 | No se rechaza
+  Tiempo de servicio | Exponencial (media 3.03 min) | K-S | 0.2242 | 0.0519 | Se rechaza
+  Tiempo de servicio | Gamma (α = 3.23; θ = 0.94) | K-S | 0.0319 | 0.0445 | No se rechaza

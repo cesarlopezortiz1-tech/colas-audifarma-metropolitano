@@ -1,0 +1,53 @@
+Servicio: media = 3.0303 min, σ = 1.6508 min, μ = 19.7999 usuarios/h, Cs² = 0.2968
+
+MODELO M/M/1
+  Indicador | Hora valle (λ = 34.7; s = 3) | Demanda promedio (λ = 65.6; s = 4) | Hora pico (λ = 100.1; s = 6)
+  λ de la cola (usuarios/h) | 11,57 | 16,4 | 16,68
+  μ por módulo (usuarios/h) | 19,8 | 19,8 | 19,8
+  Factor de utilización ρ | 0,584 | 0,828 | 0,843
+  Probabilidad de sistema vacío P₀ | 0,416 | 0,172 | 0,157
+  Lq por módulo (usuarios) | 0,82 | 4,0 | 4,51
+  Lq total en la sede (usuarios) | 2,46 | 15,98 | 27,06
+  L total en la sede (usuarios) | 4,21 | 19,29 | 32,12
+  Wq: espera en cola (min) | 4,26 | 14,62 | 16,22
+  W: tiempo en el sistema (min) | 7,29 | 17,65 | 19,25
+  Pw: probabilidad de esperar | 0,584 | 0,828 | 0,843
+
+MODELO M/G/1
+  Indicador | Hora valle (λ = 34.7; s = 3) | Demanda promedio (λ = 65.6; s = 4) | Hora pico (λ = 100.1; s = 6)
+  λ de la cola (usuarios/h) | 11,57 | 16,4 | 16,68
+  μ por módulo (usuarios/h) | 19,8 | 19,8 | 19,8
+  Factor de utilización ρ | 0,584 | 0,828 | 0,843
+  Probabilidad de sistema vacío P₀ | 0,416 | 0,172 | 0,157
+  Lq por módulo (usuarios) | 0,53 | 2,59 | 2,92
+  Lq total en la sede (usuarios) | 1,6 | 10,36 | 17,55
+  L total en la sede (usuarios) | 3,35 | 13,68 | 22,6
+  Wq: espera en cola (min) | 2,76 | 9,48 | 10,52
+  W: tiempo en el sistema (min) | 5,79 | 12,51 | 13,55
+  Pw: probabilidad de esperar | 0,584 | 0,828 | 0,843
+
+MODELO M/M/s
+  Indicador | Hora valle (λ = 34.7; s = 3) | Demanda promedio (λ = 65.6; s = 4) | Hora pico (λ = 100.1; s = 6)
+  λ de la cola (usuarios/h) | 34,7 | 65,6 | 100,1
+  μ por módulo (usuarios/h) | 19,8 | 19,8 | 19,8
+  Factor de utilización ρ | 0,584 | 0,828 | 0,843
+  Probabilidad de sistema vacío P₀ | 0,155 | 0,022 | 0,004
+  Lq total en la sede (usuarios) | 0,47 | 3,13 | 3,25
+  L total en la sede (usuarios) | 2,22 | 6,44 | 8,31
+  Wq: espera en cola (min) | 0,81 | 2,86 | 1,95
+  W: tiempo en el sistema (min) | 3,84 | 5,89 | 4,98
+  Pw: probabilidad de esperar | 0,335 | 0,648 | 0,608
+
+MODELO M/M/s Allen-Cunneen
+  Indicador | Hora valle (λ = 34.7; s = 3) | Demanda promedio (λ = 65.6; s = 4) | Hora pico (λ = 100.1; s = 6)
+  λ de la cola (usuarios/h) | 34,7 | 65,6 | 100,1
+  μ por módulo (usuarios/h) | 19,8 | 19,8 | 19,8
+  Factor de utilización ρ | 0,584 | 0,828 | 0,843
+  Probabilidad de sistema vacío P₀ | 0,155 | 0,022 | 0,004
+  Lq total en la sede (usuarios) | 0,3 | 2,03 | 2,11
+  L total en la sede (usuarios) | 2,06 | 5,34 | 7,16
+  Wq: espera en cola (min) | 0,53 | 1,85 | 1,26
+  W: tiempo en el sistema (min) | 3,56 | 4,88 | 4,29
+  Pw: probabilidad de esperar | 0,335 | 0,648 | 0,608
+
+Archivo: resultados_modelos.xlsx (una hoja por modelo)
