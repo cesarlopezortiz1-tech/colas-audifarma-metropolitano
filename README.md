@@ -1,8 +1,8 @@
-# Análisis de teoría de colas – Audifarma, sede Plaza del Sol (Soledad)
+# Análisis de teoría de colas – Audifarma, sede centro comercial Metropolitano (Soledad)
 
 Código del trabajo de grado *Diagnóstico del proceso de atención y comparación de los
-modelos de teoría de colas M/M/1, M/M/s y M/G/1 en Audifarma S.A. sede Plaza del Sol
-de Soledad* (Ingeniería Industrial, Universidad Libre Seccional Barranquilla, 2026).
+modelos de teoría de colas M/M/1, M/M/s y M/G/1 en Audifarma S.A. sede centro comercial Metropolitano de soledad
+* (Ingeniería Industrial, Universidad Libre Seccional Barranquilla, 2026).
 
 Autores: Joshua Alain Gutiérrez Arenas y Cesar Luis López Ortiz.
 
